@@ -2,6 +2,8 @@
 
 Vanilla JS components using Redux pattern (Container and Presentation components).
 
+![Vanilla JS Redux](screenshots/vanilla-js-redux.gif?raw=true "Vanilla JS Redux")
+
 ## Developer Setup
 
 Prerequisites
