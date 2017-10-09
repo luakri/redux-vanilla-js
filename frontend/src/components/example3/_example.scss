@@ -1,0 +1,14 @@
+.example {
+
+    .btn {
+        border: none;
+
+        &.connecting {
+            background-color:orange;
+        }
+    
+        &.success {
+            background-color:green;
+        }
+    }
+}

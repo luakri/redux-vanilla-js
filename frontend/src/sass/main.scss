@@ -1,0 +1,18 @@
+@import "normalize";
+@import "vars";
+
+body {
+    background-color: $black;
+}
+
+.main-title,
+p {
+    color: $white
+}
+
+button {
+    outline: none;
+}
+
+@import "../components/example/example";
+@import "../components/example2/example2";

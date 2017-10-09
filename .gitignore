@@ -1,0 +1,94 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+frontend/grunt/icons/output
+Thumbs.db
+
+# Editor Files #
+################
+*~
+*.swp
+
+# Gradle Files #
+################
+.gradle
+.m2
+
+# Build output directies
+dist/
+*/dist
+/target
+*/target
+frontend/reports/
+#/build
+#*/build
+#
+# # IntelliJ specific files/directories
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
+atlassian-ide-plugin.xml
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.metadata
+
+# NetBeans specific files/directories
+.nbattrs
+/bin/
+/bin/
+
+
+# Gulp dev files #
+###################
+bower-components/
+node_modules/
+.bundle/
+.sass-cache/
+.tmp
+
+# Sublime Text #
+################
+*.sublime-project
+*.sublime-workspace
+classes/
+
+# JSON locale generator #
+#########################
+/copy_parser/data.csv
+
+# File produced by npm precommit-hook
+/.jshintignore
+/_creative
